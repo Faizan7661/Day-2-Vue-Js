@@ -9,5 +9,5 @@ import DisplayData from './components/DisplayingData.vue'
 </script>
 
 <style scoped>
-/* Your styles here */
+
 </style>
